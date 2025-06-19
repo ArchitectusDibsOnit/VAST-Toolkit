@@ -1,0 +1,10 @@
+MIT-Creatorium-Variant License
+
+Copyright (c) 2025 Joseph Russell Brender
+
+Permission is hereby granted for personal, educational, and non-commercial use.
+Commercial redistribution, resale, or bundling must be licensed via Creatorium Studios.
+
+The software is provided "as-is" without warranty. Attribution is required in public builds.
+
+Must display "Powered by V.A.S.T. - The Creatorium Preset Wizard" in any derived work.
