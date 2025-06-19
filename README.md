@@ -1,5 +1,12 @@
-# V.A.S.T. - VLC Audio Spatializer Toolkit
+# V.A.S.T. (VLC Audio Spatializer Toolkit)
 
+![GitHub release](https://img.shields.io/github/v/release/Creatorium-Studios/VAST-Toolkit)
+![Issues](https://img.shields.io/github/issues/Creatorium-Studios/VAST-Toolkit)
+![License](https://img.shields.io/github/license/Creatorium-Studios/VAST-Toolkit)
+![Stars](https://img.shields.io/github/stars/Creatorium-Studios/VAST-Toolkit?style=social)
+![Discussions](https://img.shields.io/github/discussions/Creatorium-Studios/VAST-Toolkit)
+
+> _An AI-assisted drag-n-drop preset wizard for VLC audio lovers, producers, and speaker freaks._
 An AI-assisted preset wizard for genre-aware speaker optimization.  
 Built for producers, audio lovers, and tech alchemists.
 
