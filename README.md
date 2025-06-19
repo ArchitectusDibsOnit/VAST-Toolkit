@@ -5,6 +5,9 @@
 ![License](https://img.shields.io/github/license/Creatorium-Studios/VAST-Toolkit)
 ![Stars](https://img.shields.io/github/stars/Creatorium-Studios/VAST-Toolkit?style=social)
 ![Discussions](https://img.shields.io/github/discussions/Creatorium-Studios/VAST-Toolkit)
+![Downloads](https://img.shields.io/github/downloads/Creatorium-Studios/VAST-Toolkit/total)
+![Contributors](https://img.shields.io/github/contributors/Creatorium-Studios/VAST-Toolkit)
+![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4)
 
 > _An AI-assisted drag-n-drop preset wizard for VLC audio lovers, producers, and speaker freaks._
 An AI-assisted preset wizard for genre-aware speaker optimization.  
